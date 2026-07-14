@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 15 号添加
 
+
+#### Beihai10078 - [Github](https://github.com/Beihai10078)
+* :white_check_mark: [小米设备价格天梯 & 代号速查](https://beihai10078.github.io/xiaomi-price-tier/)：Xiaomi / Redmi / POCO 设备价格天梯与代号速查工具，覆盖 245 台设备，支持品牌/系列/类型多维筛选、代号一键复制、中英双语、Material You 风格，纯静态零依赖 - [查看仓库](https://github.com/Beihai10078/xiaomi-price-tier)
 #### dongdongbh - [Github](https://github.com/dongdongbh)
 * :white_check_mark: [Mindwtr](https://mindwtr.app)：本地优先的 GTD 待办 App，几秒收集脑中的任务和想法，再通过整理、执行和每周回顾始终看清下一步；免费开源、无需账号，数据留在自己的设备上 - [查看仓库](https://github.com/dongdongbh/Mindwtr)
 
@@ -5855,3 +5858,4 @@
 1. [电鸭](https://eleduck.com/)
 1. [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
 1. [RemoteOK](https://remoteok.io/)
+
