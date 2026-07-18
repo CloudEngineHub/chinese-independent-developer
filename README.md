@@ -25,6 +25,14 @@
 ## 3. 项目列表
 ### 2026 年 7 月 18 号添加
 
+#### MattCraftsCode - [Github](https://github.com/MattCraftsCode)
+* :white_check_mark: [Fullmira](https://fullmira.com/)：一站式 AI 创作平台，整合 GPT、Claude、Gemini 等多个模型，同一界面完成文本、图像、视频和音频生成，内置 100+ 专用工具覆盖写作、图像编辑与视频制作
+
+#### Yana Li - [Github](https://github.com/woshiliyana)
+* :white_check_mark: [CreateFaceless](https://createfaceless.com/en)：AI 不出镜 YouTube Shorts 一键生成工具，从脚本、画面、配音、字幕到封面和成片自动完成，无需剪辑经验
+* :white_check_mark: [PawsLullaby](https://pawslullaby.com/en)：AI 宠物纪念创作工具，把宠物的故事和照片变成专属纪念歌、纪念视频和可以继续回复的信，可私密保存，也可分享给亲友
+* :white_check_mark: [Jung Room](https://www.jungroom.com)：不是聊完即忘的 AI 聊天，基于荣格分析心理学，从一个梦、一种情绪或一段关系困惑开始，把反复出现的内在模式沉淀为会谈笔记和一张持续生长、由用户掌控的内在地图
+
 #### EthanYoQ - [Github](https://github.com/EthanYoQ)
 * :white_check_mark: [AgentHive](https://github.com/EthanYoQ/AgentHive/releases/latest)：Windows 桌面版 AI 圆桌工作台，把业务问题丢给可配置的产品、市场、反方、总结 Agent 同场推演，自动输出结论、风险点和待验证假设，用于决策压测和证据整理（默认角色需自行安装并登录 Codex CLI / Claude Code CLI） - [查看仓库](https://github.com/EthanYoQ/AgentHive)
 
